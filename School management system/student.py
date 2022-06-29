@@ -2,7 +2,7 @@ import os
 import platform
 
 global listStd #Making ListStd As Super Global Variable
-listStd = ["Deji", "Maki", "Annie", "Kakashi"] #List Of Students
+listStd = ["Maki", "Annie", "Gideon", "David"] #List Of Students
 
 def manageStudent(): #Function For The Student Management System
 
@@ -70,7 +70,7 @@ Enter 4 : To Remove Student
 	elif(userInput < 1 or userInput > 4): #Validating User Option
 		print("Please Enter Valid Option")	#Error Message	
 						
-#brought to you by deji ogunbanjo
+#brought to you by gideon ogunbanjo
 manageStudent()
 
 def runAgain(): #Making Runable Problem1353
