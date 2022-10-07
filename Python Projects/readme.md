@@ -1,0 +1,1 @@
+These are the various projects I built to familiarize myself with python. They include school management systems, chatbots, acronym converters, currency converters, spinning 3D donuts e.t.c
