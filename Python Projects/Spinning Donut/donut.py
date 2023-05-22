@@ -8,8 +8,8 @@ white = (255, 255, 255)
 black = (0, 0, 0)
 hue = 0
 
-WIDTH = 1920
-HEIGHT = 1080
+WIDTH = 700
+HEIGHT = 700
 
 x_start, y_start = 0, 0
 
